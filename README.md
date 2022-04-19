@@ -35,8 +35,8 @@ midterm 2: 86.2%
 # if you have multiple grades for a category, you can use the grade_multiple function to compute them all at once
 # in this case, we have 7 homework assignments, with grades 8/10, 6/10, 7/10, and so on.
 # optionally, the argument drop_worst can be passed to drop a given number of worst grades
-
 homework: grade_multiple([8, 6, 7, 9, 10, 7, 10], out_of=10, drop_worst=1)
+
 [config]
 # this section is optional; it allows you to specify information such as the course passing grade
 passing_grade: 50%
