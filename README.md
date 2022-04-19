@@ -31,7 +31,7 @@ homework: 25%
 final: unknown
 # values may also be Python-like expressions
 midterm 1: 27/40
-midterm 2: 86.2%
+midterm 2: (2+45) / 60
 # if you have multiple grades for a category, you can use the grade_multiple function to compute them all at once
 # in this case, we have 7 homework assignments, with grades 8/10, 6/10, 7/10, and so on.
 # optionally, the argument drop_worst can be passed to drop a given number of worst grades
